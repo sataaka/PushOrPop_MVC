@@ -1,0 +1,17 @@
+Python_MVCプロジェクト
+|____
+|____entity
+| |____filed.java
+|____dao
+| |____push.java
+| |____pop.java
+| |____daoImpl
+|   |____pushImpl.java
+|   |____popImpl.java
+|____Service
+| |____Service_popDao_pushDao.java
+|  |____ServiceImpl
+|   |____Service_popDao_pushDaoImpl.java
+|____Contllorer
+| |____main.java
+| 
